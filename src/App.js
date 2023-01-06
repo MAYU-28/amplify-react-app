@@ -10,8 +10,8 @@ function App() {
     return (
         <div className="App">
             <header className="App-header">
-              <SignUp />
-                <h2>My App Content</h2>
+                <h2>Welcome User </h2>
+                <SignUp />
             </header>
         </div>
     );
